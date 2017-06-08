@@ -141,6 +141,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
         * [Wide column store](#wide-column-store)
         * [Graph Database](#graph-database)
     * [SQL or NoSQL](#sql-or-nosql)
+    * [Lambda Architecture](https://en.wikipedia.org/wiki/Lambda_architecture)
 * [Cache](#cache)
     * [Client caching](#client-caching)
     * [CDN caching](#cdn-caching)
